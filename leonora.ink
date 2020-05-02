@@ -64,7 +64,7 @@ Another pause. An intake of breath. As you wait for her to continue, a sickly li
 
 She speaks:
 
-'Afterwords, I found myself transformed. Neither male nor female, human or animal, alive or dead, I was unable to speak of the tortures I had endured at their hands. I could communicate only in pictures and symbols, in signs which must be excavated.'
+'Afterwards, I found myself transformed. Neither male nor female, human or animal, alive or dead, I was unable to speak of the tortures I had endured at their hands. I could communicate only in pictures and symbols, in signs which must be excavated.'
 
 She falls silent. Her eyes, though, hold a familiar challenge.
 
