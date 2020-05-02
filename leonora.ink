@@ -36,11 +36,6 @@ In the dark space between you and the voice at the end of the line, you imagine 
 
 === clock_time ===
 
-She pauses. The line crackles as she moves the phone, shifts position.
-
-
-
-
 -> DONE
 
 
@@ -57,11 +52,37 @@ She pauses. The line crackles as she moves the phone, shifts position.
 
 === down_below ===
 
-In the distance, walled and gated, a castle sits upon a hill. Crenelated, towers with conical roofs, it looks like something a child would draw. Though it broods. The slitted windows have something of eyes about them, something of mouths. A sickly light - dawn? dusk? - touches the battlements, though the bulk of the edifice remains in shadow. From the slope of the motte tumble dark trees, held at bay by an encircling wall. A single gate provides entrance to the castle grounds, its arch crowned with a winged horse.
+She pauses. The line crackles as she moves the phone against her face, shifts position.
 
-In front of the gates is a marquee, in whose entrance, lounging on the grass, sit four figures. Two of the women are naked: one, white and feathered, has the head of the bird; the other has green skin, her eyes unfocussed, staring in to the middle distance as if she were drugged. In red stockings and a black corset, a third figure hides her face with a frilled covering, a theatrical mask held in her right hand.
+'When I was a young woman,' she says, 'I was institutionalised for a nervous disorder. Though I cannot say for certain what happened to me there - I was drugged, and kept against my will by cruel and indifferent medical professionals - my memories of that place are nevertheless powerful.'
 
-The final figure is somehow more and less ambiguous. Where the humanity of the three others is in doubt, this figure has no animal or supernatural characteristics, though her arms are bound in some sort of corset that has the appearance of a clamshell. I say she: the features are feminine, the face long, the cheekbones high, but a beard is painted on her chin. Her eyes, though, hold a familiar challenge.
+Her voice brings with it an image of a landscape. In the distance, a castle clings to a low hill. In one light it looks hugely solid, a presence whose roots are buried deep in the stone and in the past, a vortex, a mass around which a town has swirled itself into solidity. 
+
+'Three women visited me in that place. The first was white. In place of hair, feathers, and her naked body was covered in down. The second was green. Only barely conscious, she stared into the middle distance, intoxicated, unable to speak. The third hid her face with a frilled mask, was mute, and held me down so I could not escape their minstrations.'
+
+Another pause. An intake of breath. As you wait for her to continue, a sickly light - dawn? dusk? - touches the battlements, and the castle becomes something a child might have drawn. Crenelated, towers with conical roofs: the slitted windows have something of eyes about them, something of mouths. From the slope of the motte tumble dark trees, held at bay by an encircling wall. A single gate provides entrance to the castle grounds, its arch crowned with a winged horse.
+
+She speaks:
+
+'Afterwords, I found myself transformed. Neither male nor female, human or animal, alive or dead, I was unable to speak of the tortures I had endured at their hands. I could communicate only in pictures and symbols, in signs which must be excavated.'
+
+She falls silent. Her eyes, though, hold a familiar challenge.
 
 -> DONE
 
+
+=== crookey_hall ===
+
+Back to the Hall, through the gardens where the spirits are flickering. The path is a crossroads, lined with pointed dark-leaved shrubs.
+
+There are white figures lurking there, ghosts haunting me. Maidens in white night-gowns, their long hair dark with water, expressionless, half-drowned. The undergrowth is alive with beasts. and something unknown floats among the clouds — grey and sombre as they always seemed to be above the jagged rooftops. In the distance, I see shapes moving across the murky pond where we’d row boats, or swim, or slip fully clothed, waist-deep into the green water, petticoats billowing out.
+
+On the long lawns that slope away, there are women, walking or sitting, dressed in long robes, accompanied by greyhounds. They are cool and calm and graceful and distant. One of them wears nothing at all, white as alabaster, bare-breasted, bald and unashamed. An enormous beast prowls beside her — a lion, a tiger, a wolf, a cat beyond any imaginable size, all fierce blazing eyes and twitching tail, yet she is not afraid. She lays a hand on its head, another on its flank, as though to say familiar, mine, mine.
+
+The Hall is still, watching over it all — the green and grey marsh, the women. Ivy clings to its walls. High above, the narrow chimneys, the tower, the window where I used to watch. There are three black birds perched above the portico: an omen? Crows, or magpies, perhaps, three for a girl, the girl I used to be.
+
+Close to the door, there’s something, someone watching or waiting. A figure, a giantess, a sorcerer as tall as the soot-stained rooftops, pointing, portentous, full of meaning. Telling me something — but what?
+
+And then turning, I see her. The girl running away along the path, a blur of white, while the spirits cluster around her, trying to pull her back. They are phantoms, shock-headed, smudged purple and black; others a sickly blue, gasping or laughing, I can’t tell which. But she runs on, toes pointed like a ballet dancer’s, hair streaking out behind her, running until she is not a girl anymore but a flash of electricity, a streak of light, barely visible, away from the Hall and its long lawns, vanishing into the dark. 
+
+-> DONE
